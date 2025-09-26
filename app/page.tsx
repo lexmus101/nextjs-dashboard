@@ -24,11 +24,12 @@ export default function Page() {
         /> */}
         
         <div className="text-2xl">
-          <ul className="text-[#ffffff] bg-[#0f123f] flex justify-center p-10 space-x-12 bg-gradient-to-b 
+          <ul className="text-[#ffffff] bg-[#0f123f] flex justify-center p-8 space-x-12 bg-gradient-to-b 
           from-[#ff4617] bg-transparent">
             <li><a>Contact</a></li>
-            <li>About experience</li>
-            <li>Projects</li>
+            <li><a>Experience</a></li>
+            <li><a>About</a></li>
+            <li><a>Projects</a></li>
           </ul>
         </div>
         <div>
